@@ -1,5 +1,6 @@
-# Loja-de-Carros
-Final project to the course Javascript Ninja.
+<title Loja-de-Carros /title>
+
+<p Final project to the course Javascript Ninja. /p>
 
 A car shop with vanilla javascript.
 
@@ -11,22 +12,22 @@ The form should have inputs for car image (an URL), Brand and Model, Year, Plate
 
 When submited the form data has to show in the table.
 
-Getting Started
+<h1 Getting Started /h1>
 Prerequisites
 You'll need to have Node on your machine. We recommend to use Node >= 6 and npm >= 3 for faster installation speed and better disk usage. (you can use yarn too).
 
 
-Contributing
+<h1 Contributing /h1>
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-Versioning
+<h1 Versioning /h1>
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
-Authors
+<h1 Authors /h1>
 Thales Alonso - Initial work -
 See also the list of contributors who participated in this project.
 
-<h1 License h1>
+<h1 License /h1>
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 Acknowledgments
