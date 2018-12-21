@@ -26,7 +26,7 @@ Authors
 Thales Alonso - Initial work -
 See also the list of contributors who participated in this project.
 
-License
+<h1 License h1>
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 Acknowledgments
