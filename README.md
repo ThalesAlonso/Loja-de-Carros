@@ -1,4 +1,4 @@
-<title> Loja-de-Carros </title>
+<h1>Loja-de-Carros</h1>
 
 <p> Final project to the course Javascript Ninja. </p>
 
