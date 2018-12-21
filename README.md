@@ -12,7 +12,7 @@
 
 <p>When submited the form data has to show in the table.</p>
 
-<h1> Getting Started</h1>
+<h2> Getting Started</h2>
 <h1>Prerequisites</h1>
 <p>You'll need to have Node on your machine. We recommend to use Node >= 6 and npm >= 3 for faster installation speed and better disk usage. (you can use yarn too).</p>
 
